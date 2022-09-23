@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Fareena Ansari
 
-I'm a Civil Engineer currently pursuing master's in Water Resources Engineering from IIT Guwahati, Assam. Inclined 
+I'm a Civil Engineer currently pursuing master's in Water Resources Engineering from IIT Guwahati, Assam.
 
 <!--
 **Fareena-Ansari/Fareena-Ansari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
